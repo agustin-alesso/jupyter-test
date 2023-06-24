@@ -1,0 +1,4 @@
+Suggests:
+    renv,
+    IRkernel,
+    tidyverse
